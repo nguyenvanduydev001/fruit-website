@@ -837,7 +837,7 @@ body.dark-theme {
 
   .join__form {
     width: 600px;
-    justify-content: center;
+    margin: 0 auto;
   }
 
   .footer__data {
@@ -1002,7 +1002,7 @@ body.dark-theme {
   }
 
   .join__leaf-2 {
-    left: 6rem;
+    left: 57rem;
   }
 
   .footer {
